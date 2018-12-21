@@ -1,0 +1,11 @@
+(1) Oh, Junhyuk, Satinder Singh, and Honglak Lee. "Value prediction network."
+    Advances in Neural Information Processing Systems. 2017.
+    For learning algorithm pseudocode, see section D of Appendix: https://arxiv.org/abs/1707.03497.
+
+(2) See https://juliareinforcementlearning.github.io/ReinforcementLearning.jl/latest/
+    for latest stable docs and details.
+
+(3) See http://fluxml.ai/ for details and documentation.
+
+(4) Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep Reinforcement
+    Learning with Double Q-Learning." AAAI. Vol. 2. 2016.
